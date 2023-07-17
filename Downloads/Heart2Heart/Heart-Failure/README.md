@@ -1,4 +1,5 @@
-# Heart-Failure-Prediction-Analysis (Data Mining LA-2)
+# Heart-Failure-Prediction-Analysis 
+
 Data Mining Models Used:
 1. Logistic Regression 
 2. Decision Tree Classifier 
